@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "IRANYekan";
+  src: url("./IRANYekanMobileMedium.svg#IRANYekanMobileMedium") format("svg"),
+    url("./IRANYekanMobileMedium.ttf") format("truetype"),
+    url("./IRANYekanMobileMedium.otf") format("otf"),
+    url("./IRANYekanMobileMedium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
